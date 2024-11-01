@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2019-06-20 11:28+0\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: woo-friendly-user-agent.php:36
+msgid "Customer User Agent"
+msgstr ""
+
+#: woo-friendly-user-agent.php:52
+msgid "User Agent"
+msgstr ""
+
+#: woo-friendly-user-agent.php:71
+msgid "Not set"
+msgstr ""
+
+#: woo-friendly-user-agent.php:89
+msgid "Platform"
+msgstr ""
+
+#: woo-friendly-user-agent.php:91
+msgid "Platform: Not known"
+msgstr ""
+
+#: woo-friendly-user-agent.php:100
+msgid "Browser"
+msgstr ""
+
+#: woo-friendly-user-agent.php:102
+msgid "Browser: Not known"
+msgstr ""
+
+#: woo-friendly-user-agent.php:111
+msgid "Version"
+msgstr ""
